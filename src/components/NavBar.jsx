@@ -21,7 +21,7 @@ import {Link} from "react-scroll"
     },
      {
         id:4,
-        link:'experience'
+        link:'skills'
     },
      {
         id:5,
