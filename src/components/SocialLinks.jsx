@@ -13,7 +13,7 @@ const SocialLinks = () => {
               LinkedIn <FaLinkedin size={30} />
             </>
           ),
-          href: "www.linkedin.com/in/akhil-satish-codebender",
+          href: "https://linkedin.com/in/akhil-satish-codebender",
           style: "rounded-tr-md",
         },
         {
