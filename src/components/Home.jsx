@@ -5,12 +5,12 @@ import {Link} from "react-scroll"
 
  const Home = () => {
   return (
-    <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 '>
+    <section title="hero-section" name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 '>
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row mt-100'>
             <div className='flex flex-col justify-center h-full'>
-                <h2 className='text-4xl sm:text-7xl font-bold text-white  pt-20 md:pt-60'>
-                   Hi I am Akhil! I am a Full-Stack Developer
-                </h2>
+                <h1 className='text-2xl sm:text-7xl font-bold text-white  pt-20 md:pt-60'>
+                   Hi I am Akhil! I am a Full-Stack Software Developer
+                </h1>
                 <p className=' text-gray-500 py-4 max-w-md'>
                     I have 5 years of experience building and designing software. 
                     Currently, I love to work on web applications using technologies like React, Tailwind, Node JS and MongoDb.
@@ -33,7 +33,7 @@ import {Link} from "react-scroll"
 
 
         </div>
-    </div>
+    </section>
   )
 }
 export default Home;

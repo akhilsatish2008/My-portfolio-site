@@ -69,15 +69,16 @@ const Experience = () => {
   ];
 
   return (
-    <div
+    <section
+    title="my software skills"
       name="skills"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-screen pt-20"
     >
       <div className="max-w-screen-lg mx-auto p-4  flex-col justify-center w-full h-full text-white  md:justify-start ">
         <div className="flex justify-center md:justify-start ">
-          <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline ">
+          <h2 className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline ">
             Skills
-          </p>
+          </h2>
           
         </div>
 
@@ -93,7 +94,7 @@ const Experience = () => {
           ))}
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

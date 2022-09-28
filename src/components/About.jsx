@@ -3,8 +3,9 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div
+  <section
       name="about"
+      title="About-me"
       className="flex flex-col justify-center items-center w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-20 "
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full   ">
@@ -26,7 +27,7 @@ const About = () => {
         Since then, I've been working on countless freelance projects and always learning new technologies. Today, I work as a full-stack developer on a great team at 100devs, and I am learning machine learning on my own time. I'm familiar with various programming languages/frameworks ​​such as JavaScript, HTML, CSS, Java, Node.js, Express.js,React.js, and MongoDB , but I'm constantly adding new skills to my repertoire.
         </p>
       </div>
-    </div>
+    </section>
   )
 };
 export default About
