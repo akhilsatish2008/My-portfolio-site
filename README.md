@@ -1,3 +1,52 @@
+
+# My Portfolio Site
+Most developers these days need portfolio websites! I built this modern and responsive website using React Framework! Feel free to fork and change it to your needs !
+
+**Link to project:** https://codebender.netlify.app
+
+![alt text](https://github.com/akhilsatish2008/My-portfolio-site/blob/main/public/screenshot.png)
+
+
+## How It's Made:
+
+**Tech used:** ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+
+I used Html and css for the display and JS for all my game logic. First I had to create a new board, a snake and the blocks required for its "food" that will be randomly generated on the board and finally the movement of the snake. I used the arrow keys and defined the movements based on my the clicks and also the boundries of the board. From their I just had to create a scoreboard and a function that would make the snake grow the more blocks it ate.
+
+## Optimizations
+
+I would like to increase the number of blocks for food as I m finding the game needs more action. Also to get rid of the alert when reaching 10 blocks of food.
+Also make the snake movement smoother when turning.
+
+## Lessons Learned:
+
+This project helped me realize how much I actually love building fun little projects when I have time on the side. This also taught me how powerful just plain Js is and that you dont need a framework always for work around solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,26 +94,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
