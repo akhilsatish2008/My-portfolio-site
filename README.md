@@ -9,41 +9,17 @@ Most developers these days need portfolio websites! I built this modern and resp
 
 ## How It's Made:
 
-**Tech used:** ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+**Tech used:** React and Tailwind Css
 
-I used Html and css for the display and JS for all my game logic. First I had to create a new board, a snake and the blocks required for its "food" that will be randomly generated on the board and finally the movement of the snake. I used the arrow keys and defined the movements based on my the clicks and also the boundries of the board. From their I just had to create a scoreboard and a function that would make the snake grow the more blocks it ate.
+I used react to create a component based single page web app. Using things like destructuring and looping through elements on the page like nav list to render them efficiantly ! I styled this project using Tailwind. Have a look above at the src to get a better picture of how its laid out.
 
 ## Optimizations
 
-I would like to increase the number of blocks for food as I m finding the game needs more action. Also to get rid of the alert when reaching 10 blocks of food.
-Also make the snake movement smoother when turning.
+I would like to increase the number of keywords in my meta tags for better Seo. Also i would like to optimize my hero image and give it a clear width and height so there isn't any issues with resizing the page with different screen sizes.
 
 ## Lessons Learned:
 
-This project helped me realize how much I actually love building fun little projects when I have time on the side. This also taught me how powerful just plain Js is and that you dont need a framework always for work around solutions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The main lesson I learned from creating this portfolio site and deploying it was how important page structure, using keywords and having enough words in you meta description to get better seo.
 
 
 
